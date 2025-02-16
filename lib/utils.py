@@ -17,3 +17,10 @@ def load_survey_df(spark,data_file): # spark_session, file_location
         .csv(data_file)
     # logger.info("Finished HelloSpark")
     # spark.stop()
+
+def count_by_country(survey_df):
+    return survey_df \
+    .where("Age < 40") \
+    .select("Age", "Gender", "Country", "state") \
+    .groupBy("Country") \
+    .count()
