@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9148b9b3-2d10-4309-a4bc-6dbfd913d287" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloRDD/HelloRDD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloRDD/data/sample.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloRDD/lib/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FETCH_HEAD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloSpark.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unknown-0.0-0.tar.bz2" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +42,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\demo\HelloSpark\HelloRDD\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\demo\HelloSpark" />
     </key>
   </component>
   <component name="SharedIndexes">
