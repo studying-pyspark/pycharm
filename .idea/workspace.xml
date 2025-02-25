@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9148b9b3-2d10-4309-a4bc-6dbfd913d287" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloRDD/HelloRDD.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloRDD/HelloRDD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkSchemaDemo/SparkSchemaDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SparkSchemaDemo/SparkSchemaDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkSchemaDemo/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SparkSchemaDemo/log4j.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HelloRDD.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/demo/HelloSpark/HelloRDD/data&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HelloRDD.executor": "Run",
+    "Python.SparkSchemaDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/demo/HelloSpark/HelloSparkSQL"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\demo\HelloSpark\HelloSparkSQL" />
       <recent name="E:\demo\HelloSpark\HelloRDD\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\demo\HelloSpark\SparkSchemaDemo\data" />
       <recent name="E:\demo\HelloSpark" />
     </key>
   </component>
