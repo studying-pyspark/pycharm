@@ -22,6 +22,7 @@ if __name__ == "__main__":
     logs_df.printSchema()
 
     logs_df \
+        .withColumn("referrer", substring_index("referrer", "/", 3)) \
         .groupBy("referrer") \
         .count() \
         .show(100, truncate=False)
