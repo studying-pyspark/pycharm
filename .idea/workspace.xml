@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9148b9b3-2d10-4309-a4bc-6dbfd913d287" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/08-LogFileDemo/LogFileDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/08-LogFileDemo/LogFileDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-AggDemo/AggDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-AggDemo/app-logs/hello-spark.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-AggDemo/data/invoices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-AggDemo/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-AggDemo/lib/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-AggDemo/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in RowDemo_Test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataSinkDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloRDD.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogFileDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RowDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SparkSQLTableDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SparkSchemaDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/demo/HelloSpark/06-SparkSQLTableDemo/dataSource&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in RowDemo_Test.py.executor": "Run",
+    "Python.AggDemo.executor": "Run",
+    "Python.DataSinkDemo.executor": "Run",
+    "Python.HelloRDD.executor": "Run",
+    "Python.LogFileDemo.executor": "Run",
+    "Python.RowDemo.executor": "Run",
+    "Python.SparkSQLTableDemo.executor": "Run",
+    "Python.SparkSchemaDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/demo/HelloSpark/06-SparkSQLTableDemo/dataSource"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\demo\HelloSpark\06-SparkSQLTableDemo\dataSource" />
@@ -51,12 +58,35 @@
       <recent name="E:\demo\HelloSpark\HelloRDD\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\demo\HelloSpark\13-AggDemo\data" />
       <recent name="E:\demo\HelloSpark\8-LogFileDemo\data" />
       <recent name="E:\demo\HelloSpark\SparkSchemaDemo\data" />
       <recent name="E:\demo\HelloSpark" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.AggDemo">
+    <configuration name="AggDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloSpark" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13-AggDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13-AggDemo/AggDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LogFileDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloSpark" />
       <option name="ENV_FILES" value="" />
@@ -81,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AggDemo" />
         <item itemvalue="Python.LogFileDemo" />
       </list>
     </recent_temporary>
