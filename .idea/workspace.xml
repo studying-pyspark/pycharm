@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9148b9b3-2d10-4309-a4bc-6dbfd913d287" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/13-AggDemo/AggDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-AggDemo/app-logs/hello-spark.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-AggDemo/data/invoices.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-AggDemo/lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-AggDemo/lib/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-AggDemo/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,21 +30,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in RowDemo_Test.py.executor": "Run",
-    "Python.AggDemo.executor": "Run",
-    "Python.DataSinkDemo.executor": "Run",
-    "Python.HelloRDD.executor": "Run",
-    "Python.LogFileDemo.executor": "Run",
-    "Python.RowDemo.executor": "Run",
-    "Python.SparkSQLTableDemo.executor": "Run",
-    "Python.SparkSchemaDemo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/demo/HelloSpark/06-SparkSQLTableDemo/dataSource"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in RowDemo_Test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AggDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataSinkDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloRDD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LogFileDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RowDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SparkSQLTableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SparkSchemaDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/demo/HelloSpark/06-SparkSQLTableDemo/dataSource&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\demo\HelloSpark\06-SparkSQLTableDemo\dataSource" />

@@ -6,7 +6,7 @@ from lib.logger import Log4j
 if __name__ == "__main__":
     spark = SparkSession \
         .builder \
-        .appName("Agg Demo") gi .master("local[2]") \
+        .appName("Agg Demo")  .master("local[2]") \
         .config("spark.jars.packages", "org.apache.spark:spark-avro_2.12:3.5.0") \
         .getOrCreate()
 
