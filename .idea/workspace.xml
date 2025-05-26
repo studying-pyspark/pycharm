@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9148b9b3-2d10-4309-a4bc-6dbfd913d287" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/14-GroupingDemo/data/invoices.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-GroupingDemo/groupingDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-GroupingDemo/lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-GroupingDemo/lib/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-GroupingDemo/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-WindowingDemo/WindowingDemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +61,7 @@
       <recent name="E:\demo\HelloSpark" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AggDemo">
+  <component name="RunManager">
     <configuration name="AggDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HelloSpark" />
       <option name="ENV_FILES" value="" />
